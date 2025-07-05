@@ -81,6 +81,7 @@ nav ul li a:hover{
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
     transition: all 0.5s;
+    color: rgb(0, 102, 55);
 
 }
 .btn:hover{
