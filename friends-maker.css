@@ -154,3 +154,11 @@ nav .btn{
   width: 100%;
   height: 100%;
 }
+.web2{
+    position: absolute;
+    background-color: #9ed204;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
