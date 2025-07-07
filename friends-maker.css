@@ -4,7 +4,7 @@
     color: white;
 }
 .web{
-    background:linear-gradient(45deg ,rgb(53, 0, 128) ,blue ,rgb(5, 169, 228) );
+
     position: absolute;
     width: 100%;
     height: 100%;
@@ -145,4 +145,12 @@ nav .btn{
         opacity: 1;
         transform: translateX(0);
     }
+}
+#myVideo {
+  object-fit: cover;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
 }
